@@ -32,6 +32,24 @@ Além da tecnologia, meus hobbies incluem praticar atividades físicas, como cor
 </div> <br>
 
 ### 📈 Estatísticas:
-![Moises Motta GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&bg_color=00000000&locale=pt-br)
+
+<table>
+  <tr>
+    <td style="padding-right: 120px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&bg_color=00000000&locale=pt-br" alt="Moises Motta GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 
 
