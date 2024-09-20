@@ -36,13 +36,14 @@ Além da tecnologia, meus hobbies incluem praticar atividades físicas, como cor
 <table>
   <tr>
     <td style="padding-right: 120px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&bg_color=#179fec&locale=pt-br" alt="Moises Motta GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&bg_color=000000&title_color=1E90FF&text_color=1E90FF&locale=pt-br" alt="Moises Motta GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&show_icons=true&bg_color=#179fec&locale=pt-br"&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&show_icons=true&bg_color=000000&title_color=1E90FF&text_color=1E90FF&locale=pt-br&layout=compact" alt="Top Langs" />
     </td>
   </tr>
 </table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake-dark.svg">
