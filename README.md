@@ -1,6 +1,6 @@
-## Olá  Eu sou Moises Motta 👋
+# Olá  Eu sou Moises Motta 👋
 
-### Sobre Mim 📊
+## Sobre Mim 📊
 
 Iniciei minha trajetória pelo curso de Análise e Desenvolvimento de Sistemas porque vi uma oportunidade de explorar diversas áreas da tecnologia. Ao longo do curso, tive contato com várias disciplinas e, nesse processo, descobri minha verdadeira paixão: a área de dados. Trabalhar com análise e processamento de informações me mostrou o impacto que os dados podem ter ao apoiar decisões estratégicas e criar valor real para as empresas.
 
@@ -8,14 +8,14 @@ Com experiência em ferramentas como SQL, Python, Power BI e Excel, comecei minh
 
 Além da tecnologia, meus hobbies incluem praticar atividades físicas, como corrida e basquete, assistir filmes e aproveitar boas leituras.
 
-### 🌐Contato:
+## 🌐Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-motta-9a484a1a2/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisemotta7@gmail.com)
 
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="display: inline_block"></>
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,8 +31,7 @@ Além da tecnologia, meus hobbies incluem praticar atividades físicas, como cor
                                   <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div> <br>
 
-### 📈 Estatísticas:
-
+## 📈 Estatísticas:
 <table>
   <tr>
     <td style="padding-right: 120px;">
@@ -43,7 +42,6 @@ Além da tecnologia, meus hobbies incluem praticar atividades físicas, como cor
     </td>
   </tr>
 </table>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake-dark.svg">
