@@ -1,6 +1,6 @@
 # Olá  Eu sou Moises Motta 👋
 
-## Sobre Mim 📊
+## 📊Sobre Mim 
 
 Iniciei minha trajetória pelo curso de Análise e Desenvolvimento de Sistemas porque vi uma oportunidade de explorar diversas áreas da tecnologia. Ao longo do curso, tive contato com várias disciplinas e, nesse processo, descobri minha verdadeira paixão: a área de dados. Trabalhar com análise e processamento de informações me mostrou o impacto que os dados podem ter ao apoiar decisões estratégicas e criar valor real para as empresas.
 
