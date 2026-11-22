@@ -63,9 +63,12 @@ Fora da tecnologia, gosto de correr, jogar basquete, ver filmes e ler.
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## Linguagens mais usadas nos meus projetos
+## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&layout=compact&langs_count=8&hide=shell&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
 ## Contato
 
