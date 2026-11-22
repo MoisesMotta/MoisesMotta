@@ -1,54 +1,43 @@
-# Olá  Eu sou Moises Motta 👋
+# Olá, eu sou o Moises Motta
 
-## 📊Sobre Mim 
+Analista de Planejamento no Supply da BR Mania (Grupo Vibra) e aluno do MBA em Data Science, IA e Analytics da USP.
 
-Iniciei minha trajetória pelo curso de Análise e Desenvolvimento de Sistemas porque vi uma oportunidade de explorar diversas áreas da tecnologia. Ao longo do curso, tive contato com várias disciplinas e, nesse processo, descobri minha verdadeira paixão: a área de dados. Trabalhar com análise e processamento de informações me mostrou o impacto que os dados podem ter ao apoiar decisões estratégicas e criar valor real para as empresas.
+Entrei na área de dados pelo curso de Análise e Desenvolvimento de Sistemas e, desde então, trabalho com planejamento de estoque e abastecimento. No dia a dia uso dados para responder perguntas práticas: quanto comprar, quando comprar e onde o estoque está em risco. Aqui no GitHub publico os projetos que desenvolvo em paralelo ao MBA, quase sempre partindo de perguntas que surgem do meu trabalho.
 
-Com experiência em ferramentas como SQL, Python, Power BI e Excel, comecei minha carreira no setor de planejamento, onde pude aplicar esses conhecimentos na prática e perceber como uma análise bem-feita pode transformar resultados.
+Fora da tecnologia, gosto de correr, jogar basquete, ver filmes e ler.
 
-Além da tecnologia, meus hobbies incluem praticar atividades físicas, como corrida e basquete, assistir filmes e aproveitar boas leituras.
+## Projetos em destaque
 
-## 🌐Contato:
+| Projeto | Pergunta | Ferramentas |
+|---|---|---|
+| [El Niño e o café](https://github.com/MoisesMotta/el-nino-cafe) | O El Niño afeta o preço do café? Onde e com quanto atraso? | R, ggplot2, geobr, dados NOAA/CEPEA/IBGE |
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-motta-9a484a1a2/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisemotta7@gmail.com)
+## Ferramentas
 
+<p>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
+## Contato
 
-## 💻 Tech Stack:
-<div style="display: inline_block"></>
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-      <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-          <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-            <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-              <img align="center" alt="Power Point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-                <img align="center" alt="Power Point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-                  <img align="center" alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-                            <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-                              <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-                                  <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div> <br>
+<p>
+  <a href="https://www.linkedin.com/in/moisesmotta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:moisesmotta77@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 📈 Estatísticas:
-<table>
-  <tr>
-    <td style="padding-right: 120px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MoisesMotta&show_icons=true&bg_color=000000&title_color=1E90FF&text_color=1E90FF&locale=pt-br" alt="Moises Motta GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMotta&show_icons=true&bg_color=000000&title_color=1E90FF&text_color=1E90FF&locale=pt-br&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+## Atividade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/MoisesMotta/MoisesMotta/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
-
-
-
