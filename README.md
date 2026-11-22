@@ -2,7 +2,9 @@
 
 Analista de Planejamento no Supply da BR Mania (Grupo Vibra) e aluno do MBA em Data Science, IA e Analytics da USP.
 
-Entrei na área de dados pelo curso de Análise e Desenvolvimento de Sistemas e, desde então, trabalho com planejamento de estoque e abastecimento. No dia a dia uso dados para responder perguntas práticas: quanto comprar, quando comprar e onde o estoque está em risco. Aqui no GitHub publico os projetos que desenvolvo em paralelo ao MBA, quase sempre partindo de perguntas que surgem do meu trabalho.
+Entrei na área de dados pelo curso de Análise e Desenvolvimento de Sistemas e hoje uso dados no dia a dia para apoiar decisões de estoque e abastecimento.
+
+Aqui no GitHub reúno os projetos que desenvolvo por fora: análises com dados públicos, automações, engenharia de dados, aplicações web e estudos do MBA. Alguns nascem de perguntas do trabalho, outros só da curiosidade de entender um tema a fundo.
 
 Fora da tecnologia, gosto de correr, jogar basquete, ver filmes e ler.
 
